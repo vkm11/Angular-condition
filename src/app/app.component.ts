@@ -6,5 +6,17 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular-condition';
+  // title = 'If-else condition';
+  // show = false
+
+  // show = "yes"
+  // show = true
+  
+  // Multiple Condition or else if:-
+  // title ='multiple condition'
+  // color = "red";
+
+  // Swith case:-
+  title ='Switch Case'
+  color = "yellow";
 }
